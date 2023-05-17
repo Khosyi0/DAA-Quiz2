@@ -15,7 +15,7 @@
 The simulation of our program that has been modified so that it displays the step by step of our Xudoku Solver program :
 - DFS and Backtracking Algorithm Implementation
 
-![](https://raw.githubusercontent.com/Khosyi0/up-gambar/main/daagif.gif?token=GHSAT0AAAAAAB6USAAP7QTQTSRWBY672EU2ZDE6HVQ)
+![](https://raw.githubusercontent.com/Khosyi0/up-gambar/main/daagif.gif?token=GHSAT0AAAAAAB6USAAPRVBNB5NOW22GKVMMZDE6YLQ)
 
 - Step by step simulation of our program from Initial State to Final State
 
